@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy – Screen Flash Guard</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+h1, h2 { color: #222; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy – Screen Flash Guard</h1>
+<p><strong>Last Updated: [add date]</strong></p>
+
+<p>Screen Flash Guard (“the App”) is developed by <strong>Budumuru Dileep Kumar</strong>, a student at IIT Hyderabad, India. The App is designed to detect sudden bright screen flashes and dim them instantly to help users—especially those sensitive to flashing lights—reduce visual triggers.</p>
+
+<h2>1. Information We Collect</h2>
+<p><strong>We do NOT collect, store, share, or transmit any personal or sensitive user data.</strong></p>
+
+<h2>2. How the App Works</h2>
+<p>Screen Flash Guard analyzes sudden brightness changes <strong>locally on your device</strong>, in real time. No screenshots, screen recordings, or user data of any kind are collected or transmitted.</p>
+
+<h2>3. Permissions Used</h2>
+<p><strong>Accessibility Service Permission</strong><br>
+Used only to detect sudden screen brightness changes and dim the screen. We do not use accessibility access to read content, capture data, or perform unintended actions.</p>
+
+<p><strong>Overlay (Draw Over Apps) Permission</strong><br>
+Used only to apply a dimming overlay when a flash is detected.</p>
+
+<h2>4. Data Sharing</h2>
+<p>We do not share any data with any third party because no data is collected.</p>
+
+<h2>5. Children’s Privacy</h2>
+<p>Screen Flash Guard does not collect data from any user, including children under 13.</p>
+
+<h2>6. Security</h2>
+<p>The App performs all operations locally and does not send or store any data, minimizing security risks.</p>
+
+<h2>7. Changes to this Privacy Policy</h2>
+<p>We may update this Privacy Policy occasionally. Any changes will be posted here.</p>
+
+<h2>8. Contact Us</h2>
+<p><strong>Developer:</strong> Budumuru Dileep Kumar<br>
+<strong>Email:</strong> dileepkumar1905budumuru@gmail.com<br>
+<strong>Institution:</strong> IIT Hyderabad, India</p>
+
+</body>
+</html>
